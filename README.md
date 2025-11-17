@@ -1,4 +1,5 @@
-# Welcome to My Portfolio!
+# David Norman's Portfolio
+![DavidNorman](DavidNorman.jpg)
 
 ## Introduction
 My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I have a minor in Business Data Analytics leading me to be someone who is dedicated to leverage data analytics to drive sustainable business growth and inform strategic decisions.
