@@ -8,6 +8,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 
 ## Projects 
 ### Drippy Spelunk Video Game
+![DrippySpelunk](DrippySpelunkPicture.jpg)
 - Project: https://github.com/David-Norm/DrippySpelunk
 - This project is a Dungeon Crawler styled game created in Java with a SQL database implementation where a character will run around a dungeon looking for four pillars to collect. After collecting all the pillars the exit door will open. There are many fun ideas implemented such as collecting chests with items, custom dungeon generation, and turn based enemy combat.
 - Implemented using multiple design patterns such as MVC, Singleton, Factory, and Facade.
