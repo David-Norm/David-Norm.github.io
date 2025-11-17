@@ -15,6 +15,8 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 - Key Learnings: Design patterns, SQL database implementation, and object-oriented programming.
 - Technologies used were Java, SQL, IntelliJIDEA, and GitHub.
 ### Spreadsheet
+<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/8f0c5d7e-5d7d-4c1a-8fce-b76707c60ea6" />
+
 - Project: https://github.com/David-Norm/Spreadsheet
 - This program is a Java based spreadsheet application modeled after Excel. It evaluates cell formulas using a tree-structured data model, made possible through an adjacency-list graph and topological sorting for dependency resolution. The spreadsheet also includes a custom grammar implementation that serves as the expression parser for evaluating cell formulas.
 - Key Learnings: Grammar implementation, GUI implementation, and tree-structured data models.
