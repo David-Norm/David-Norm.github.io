@@ -40,5 +40,5 @@ You can view my resume here: [Resume (PDF)](./David%20Norman%20-%20Resume.pdf)
 
 ## Contact
 - Email: david.norm2001@gmail.com
-- [LinkedIn:](linkedin.com/in/david-norm) 
-- [GitHub:](github.com/david-norm) 
+- [LinkedIn](linkedin.com/in/david-norm) 
+- [GitHub](github.com/david-norm) 
