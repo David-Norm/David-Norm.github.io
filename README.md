@@ -1,21 +1,24 @@
-# David Norman's Portfolio                                                                                                          
+# David Norman's Portfolio
+
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="350">
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="420">
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <h2>Introduction</h2>
       <p>
       My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I have a minor in Business Data Analytics, leading me to be someone who is dedicated to leveraging data analytics to drive sustainable business growth and inform strategic decisions.
+      </p>
+
+      <h2>About Me</h2>
+      <p>
+      I grew up surrounded by technology. My father and siblings were always deeply engaged with computers and how they worked, and naturally, I followed their lead. From a young age, I’ve been fascinated by how computers operate and how meaningful insights can be created from the data they provide. This curiosity has evolved into a passion for using technology and data to develop innovative ideas and make informed decisions about the future.
       </p>
     </td>
   </tr>
 </table>
 
-
-## About Me
-I grew up surrounded by technology. My father and siblings were always deeply engaged with computers and how they worked, and naturally, I followed their lead. From a young age, I’ve been fascinated by how computers operate and how meaningful insights can be created from the data they provide. This curiosity has evolved into a passion for using technology and data to develop innovative ideas and make informed decisions about the future.
 
 ## Projects 
 ### Drippy Spelunk Video Game
