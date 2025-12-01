@@ -5,7 +5,7 @@
     <td style="vertical-align: top; padding-right: 20px;">
       <img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="420">
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; max-width: 600px;">
       <h2>Introduction</h2>
       <p>
       My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I have a minor in Business Data Analytics, leading me to be someone who is dedicated to leveraging data analytics to drive sustainable business growth and inform strategic decisions.
@@ -17,6 +17,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
