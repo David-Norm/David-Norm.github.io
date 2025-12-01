@@ -1,4 +1,31 @@
 # David Norman's Portfolio  
+<p align="left">
+
+  <a href="#introduction">
+    <img src="https://img.shields.io/badge/Introduction-4CAF50?style=for-the-badge" alt="Introduction"/>
+  </a>
+
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Projects-2196F3?style=for-the-badge" alt="Projects"/>
+  </a>
+
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/Skills-9C27B0?style=for-the-badge" alt="Skills"/>
+  </a>
+
+  <a href="#experience">
+    <img src="https://img.shields.io/badge/Experience-FF9800?style=for-the-badge" alt="Experience"/>
+  </a>
+
+  <a href="#resume">
+    <img src="https://img.shields.io/badge/Resume-795548?style=for-the-badge" alt="Resume"/>
+  </a>
+
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge" alt="Contact"/>
+  </a>
+
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/david-norm" target="_blank">
