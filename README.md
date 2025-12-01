@@ -22,7 +22,7 @@
       >
     </td>
     <!-- TEXT CELL -->
-    <td width="45%" valign="top">
+    <td width="30%" valign="top">
       <h2>Introduction</h2>
       <p>
         My name is David Norman. I am currently a senior at the University of Washington, Tacoma, 
