@@ -15,7 +15,7 @@
 <table>
   <tr>
     <!-- IMAGE CELL -->
-    <td width="55%">
+    <td width="70%">
       <img 
         src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70"
         width="70%"
