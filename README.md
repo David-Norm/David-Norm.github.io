@@ -15,14 +15,14 @@
 <table>
   <tr>
     <!-- IMAGE CELL -->
-    <td width="40%">
+    <td width="45%">
       <img 
         src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70"
         width="70%"
       >
     </td>
     <!-- TEXT CELL -->
-    <td width="30%" valign="top">
+    <td width="55%" valign="top">
       <h2>Introduction</h2>
       <p>
         My name is David Norman. I am currently a senior at the University of Washington, Tacoma, 
