@@ -32,26 +32,59 @@
   </tr>
 </table>
 
-## Projects 
-### Drippy Spelunk Video Game
-![DrippySpelunk](DrippySpelunkPicture.jpg)
-- Project: https://github.com/David-Norm/DrippySpelunk
-- This project is a Dungeon Crawler styled game created in Java with a SQL database implementation where a character will run around a dungeon looking for four pillars to collect. After collecting all the pillars the exit door will open. There are many fun ideas implemented such as collecting chests with items, custom dungeon generation, and turn based enemy combat.
-- Implemented using multiple design patterns such as MVC, Singleton, Factory, and Facade.
-- Key Learnings: Design patterns, SQL database implementation, and object-oriented programming.
-- Technologies used were Java, SQL, IntelliJIDEA, and GitHub.
-### Spreadsheet
-![Spreadsheet](SpreadsheetPicture.jpg)
-- Project: https://github.com/David-Norm/Spreadsheet
-- This program is a Java based spreadsheet application modeled after Excel. It evaluates cell formulas using a tree-structured data model, made possible through an adjacency-list graph and topological sorting for dependency resolution. The spreadsheet also includes a custom grammar implementation that serves as the expression parser for evaluating cell formulas.
-- Key Learnings: Grammar implementation, GUI implementation, and tree-structured data models.
-- Technologies used were Java, IntelliJIDEA, and GitHub.
-### Tetris
-![Tetris](TetrisPicture.jpg)
-- Project: https://github.com/David-Norm/Tetris
-- This program was created in Java to understand object-oriented programming. This video game has two gamemodes: Normal and Hyper Mode. There is a choice of grid activation for easier gameplay, and optional use of music. There is also a progression bar to show what level you are on and what score you achieved. 
-- Key Learnings: State design pattern, object-oriented programming, and Audio implementation.
-- Technologies used were Java, IntelliJIdea, and GitHub.
+<table>
+  <tr>
+    <td width="40%">
+      <img src="DrippySpelunkPicture.jpg" width="100%">
+    </td>
+    <td width="60%" valign="top">
+      <h3>Drippy Spelunk Video Game</h3>
+      <ul>
+        <li><strong>Project:</strong> https://github.com/David-Norm/DrippySpelunk</li>
+        <li>This project is a Dungeon Crawler styled game created in Java with a SQL database implementation where a character runs around a dungeon collecting four pillars. After collecting all pillars, the exit door opens.</li>
+        <li>Includes features like chests with items, custom dungeon generation, and turn-based enemy combat.</li>
+        <li><strong>Implemented Design Patterns:</strong> MVC, Singleton, Factory, Facade</li>
+        <li><strong>Key Learnings:</strong> Design patterns, SQL database implementation, OOP</li>
+        <li><strong>Technologies:</strong> Java, SQL, IntelliJ IDEA, GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="SpreadsheetPicture.jpg" width="100%">
+    </td>
+    <td width="60%" valign="top">
+      <h3>Spreadsheet Application</h3>
+      <ul>
+        <li><strong>Project:</strong> https://github.com/David-Norm/Spreadsheet</li>
+        <li>A Java-based spreadsheet modeled after Excel, evaluating formulas using a tree-structured data model with an adjacency-list graph and topological sorting for dependency resolution.</li>
+        <li>Includes a custom grammar and expression parser for formula evaluation.</li>
+        <li><strong>Key Learnings:</strong> Grammar implementation, GUI development, trees & graphs</li>
+        <li><strong>Technologies:</strong> Java, IntelliJ IDEA, GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="TetrisPicture.jpg" width="100%">
+    </td>
+    <td width="60%" valign="top">
+      <h3>Tetris Game</h3>
+      <ul>
+        <li><strong>Project:</strong> https://github.com/David-Norm/Tetris</li>
+        <li>A Java Tetris game built to deepen understanding of OOP. Includes Normal and Hyper Mode, optional music, a grid-assist option, and a level/score progression bar.</li>
+        <li><strong>Key Learnings:</strong> State Design Pattern, OOP principles, audio integration</li>
+        <li><strong>Technologies:</strong> Java, IntelliJ IDEA, GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 ### Languages
