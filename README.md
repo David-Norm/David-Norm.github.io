@@ -1,184 +1,145 @@
-# David Norman's Portfolio  
-
-<!-- CONTACT ICONS -->
-<p align="left">
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/david-norm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="40" height="40"/>
+<!-- Contact Icons -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/David-Norm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="40" height="40"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <!-- Email -->
-  <a href="mailto:david.norm2001@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Email" width="40" height="40"/>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png" width="40" />
   </a>
-
 </p>
 
 ---
 
-<!-- MAIN LAYOUT WRAPPER -->
-<div style="display: flex; gap: 30px;">
-
-  <!-- SIDEBAR -->
-  <div style="min-width: 170px;">
-
-  ### Navigation
-  <ul style="list-style: none; padding-left: 0;">
-    <li><a href="#introduction">📘 Introduction</a></li>
-    <li><a href="#about-me">👤 About Me</a></li>
-    <li><a href="#projects">🛠️ Projects</a></li>
-    <li><a href="#skills">📚 Skills</a></li>
-    <li><a href="#experience">💼 Experience</a></li>
-    <li><a href="#resume">📄 Resume</a></li>
-  </ul>
-
-  </div>
-
-  <!-- MAIN CONTENT -->
-  <div>
+## 📌 Navigation  
+<p align="left">
+  <a href="#introduction">▶ Introduction</a><br>
+  <a href="#about-me">▶ About Me</a><br>
+  <a href="#projects">▶ Projects</a><br>
+  <a href="#skills">▶ Skills</a><br>
+  <a href="#resume">▶ Resume</a><br>
+</p>
 
 ---
 
-## Introduction
+# 🎉 Introduction & About Me  
 <table>
-  <tr>
-    <td width="55%">
-      <img 
-        src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70"
-        width="100%"
-      >
-    </td>
-    <td width="45%" valign="top">
-      <p>
-        My name is David Norman. I am currently a senior at the University of Washington, Tacoma, 
-        pursuing my Bachelor of Arts in Computer Science. I also have a minor in Business Data Analytics, 
-        which has helped shape me into someone motivated to use data to drive insight, growth, and 
-        strategic decision-making.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="40%">
+  <img src="your_image.jpg" width="100%" style="border-radius: 12px;" />
+</td>
+<td width="60%">
+  
+### 👋 Introduction  
+Hi! I’m **David Norman**, a passionate developer who loves building projects from scratch — especially tools that solve real problems.  
+I enjoy working with **Java, SQL, data structures, and GUI development**, and I’m constantly working on improving my engineering skills.
+
+### 🙋 About Me  
+- 🎓 Computer Science student  
+- ⚙️ Interested in database systems, GUIs, game dev, and backend design  
+- 💼 Experienced with Java, Swing, and custom data structures  
+- 📊 I love making tools that automate, simplify, or analyze data  
+- 🧠 Always learning, always improving  
+
+</td>
+</tr>
 </table>
 
 ---
 
-## About Me
-I grew up surrounded by technology. My father and siblings were always deeply engaged in how computers worked, and naturally, I followed in their footsteps.  
-From a young age, I became fascinated by both the structure of software and the meaningful insights hidden in data.
+# 💻 Projects
 
-Over time, this curiosity grew into a passion for building interactive software, analyzing information, and designing systems that help people make better decisions.  
-I enjoy solving problems, learning new technologies, and bringing ideas to life through code.
-
----
-
-## Projects
-
-### Drippy Spelunk Video Game
+## 📊 Spreadsheet Application (Excel Clone)
 <table>
-  <tr>
-    <td width="40%">
-      <img src="DrippySpelunkPicture.jpg" width="100%">
-    </td>
-    <td width="60%" valign="top">
-      <h3>Drippy Spelunk</h3>
-      <ul>
-        <li><strong>Project:</strong> https://github.com/David-Norm/DrippySpelunk</li>
-        <li>A Java dungeon crawler game using SQL for data storage and procedural dungeon generation.</li>
-        <li>Features turn-based combat, collectible items, and unique level layouts.</li>
-        <li><strong>Design Patterns:</strong> MVC, Singleton, Factory, Facade</li>
-        <li><strong>Key Learnings:</strong> Databases, OOP, design patterns</li>
-        <li><strong>Tech:</strong> Java, SQL, IntelliJ IDEA</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="40%">
+  <img src="spreadsheet_image.jpg" width="100%" style="border-radius: 12px;" />
+</td>
+<td width="60%">
+A fully custom-built spreadsheet program featuring:
+
+- Cell editing  
+- R1C1 formulas  
+- Dependency graph + topological sort  
+- Java Swing GUI  
+- File save/load  
+- Bulk formula entry  
+- Dynamic resizing  
+
+This project was built **from scratch** with no external spreadsheet libraries — everything including the parser and evaluator is homegrown.
+</td>
+</tr>
 </table>
 
 ---
 
-### Spreadsheet Application
+## ⚔️ Dungeon Crawler Game
 <table>
-  <tr>
-    <td width="40%">
-      <img src="SpreadsheetPicture.jpg" width="100%">
-    </td>
-    <td width="60%" valign="top">
-      <h3>Spreadsheet</h3>
-      <ul>
-        <li><strong>Project:</strong> https://github.com/David-Norm/Spreadsheet</li>
-        <li>Excel-style spreadsheet created from scratch.</li>
-        <li>Supports formulas using a custom grammar, parser, and dependency graph with topological sorting.</li>
-        <li><strong>Key Learnings:</strong> Parsing, data structures, GUI development</li>
-        <li><strong>Tech:</strong> Java, IntelliJ IDEA</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="40%">
+  <img src="dungeon_image.jpg" width="100%" style="border-radius: 12px;" />
+</td>
+<td width="60%">
+A Java-based dungeon crawler featuring:
+
+- State manager for UI transitions  
+- Procedural-style dungeon  
+- Dedicated combat system  
+- Inventory and player stats  
+- Expandable architecture  
+
+Refactored with clean separation between UI, combat logic, and world generation.
+</td>
+</tr>
 </table>
 
 ---
 
-### Tetris
+## 🌳 AVL & Splay Tree Word Frequency Analyzer
 <table>
-  <tr>
-    <td width="40%">
-      <img src="TetrisPicture.jpg" width="100%">
-    </td>
-    <td width="60%" valign="top">
-      <h3>Tetris</h3>
-      <ul>
-        <li><strong>Project:</strong> https://github.com/David-Norm/Tetris</li>
-        <li>Feature-rich Java Tetris clone with Normal & Hyper modes, music, and grid-assist.</li>
-        <li>Includes a progression/leveling bar and customizable gameplay options.</li>
-        <li><strong>Key Learnings:</strong> OOP, state pattern, audio integration</li>
-        <li><strong>Tech:</strong> Java, IntelliJ IDEA</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="40%">
+  <img src="tree_image.jpg" width="100%" style="border-radius: 12px;" />
+</td>
+<td width="60%">
+A custom word frequency counter using:
+
+- AVL Tree  
+- Splay Tree  
+- Custom `AvlNode` and `BinaryNode` extensions  
+- Top-10 most frequent word extraction  
+- Minimal modification to textbook implementations  
+
+A great demonstration of **data structure engineering**.
+</td>
+</tr>
 </table>
 
 ---
 
-## Skills
+# 🧠 Skills
+### Programming  
+`Java` • `SQL` • `Python` • `Java Swing` • `Git` • `HTML/CSS`  
 
-### Languages  
-Java, SQL, Python, R
+### Concepts  
+`OOP` • `Data Structures` • `Database Design` • `Parsing` • `Graph Algorithms`  
 
-### Frameworks  
-MySQL, RapidMiner
-
-### Developer Tools  
-Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
-
----
-
-## Experience
-Throughout my studies at the University of Washington Tacoma, I have gained extensive experience across software engineering, data analysis, and application design.  
-My projects demonstrate strong understanding of object-oriented programming, database integration, algorithmic thinking, and UI/UX design.
-
-I have worked on:
-- Full-stack Java applications  
-- Database-backed systems  
-- Large-scale data processing  
-- GUI development  
-- Game development  
-- Data modeling & analytics  
+### Tools  
+`MySQL` • `SQLite` • `IntelliJ` • `VS Code`  
 
 ---
 
-## Resume
+# 📄 Resume
 You can view my resume here:  
-**[📄 Resume (PDF)](./David%20Norman%20-%20Resume.pdf)**
+👉 **[Resume (PDF)](/David%20Norman%20-%20Resume.pdf)**
 
 ---
 
-</div> <!-- closes main content -->
-</div> <!-- closes layout wrapper -->
+# 📫 Contact
+📧 **YOUR_EMAIL@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME  
+💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
