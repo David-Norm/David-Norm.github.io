@@ -1,7 +1,17 @@
 # David Norman's Portfolio                                                                                                          
-<img width="414" height="618" alt="image" src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" /> 
-## Introduction
-My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in ComputerScience. I have a minor in Business Data Analytics leading me to be someone who is dedicated to leverage data analytics to drive sustainable business growth and inform strategic decisions.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="350">
+    </td>
+    <td>
+      <h2>Introduction</h2>
+      <p>
+      My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I have a minor in Business Data Analytics, leading me to be someone who is dedicated to leveraging data analytics to drive sustainable business growth and inform strategic decisions.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ## About Me
