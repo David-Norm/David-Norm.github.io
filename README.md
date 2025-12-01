@@ -1,44 +1,52 @@
 # David Norman's Portfolio  
+
+<!-- CONTACT ICONS -->
 <p align="left">
 
-  <a href="#introduction">
-    <img src="https://img.shields.io/badge/Introduction-4CAF50?style=for-the-badge" alt="Introduction"/>
-  </a>
-
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-2196F3?style=for-the-badge" alt="Projects"/>
-  </a>
-
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/Skills-9C27B0?style=for-the-badge" alt="Skills"/>
-  </a>
-
-  <a href="#experience">
-    <img src="https://img.shields.io/badge/Experience-FF9800?style=for-the-badge" alt="Experience"/>
-  </a>
-
-  <a href="#resume">
-    <img src="https://img.shields.io/badge/Resume-795548?style=for-the-badge" alt="Resume"/>
-  </a>
-
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge" alt="Contact"/>
-  </a>
-
-</p>
-
-<p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/david-norm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/David-Norm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
          alt="GitHub" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:david.norm2001@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         alt="Email" width="40" height="40"/>
+  </a>
+
 </p>
 
+---
+
+<!-- LEFT SIDEBAR NAVIGATION -->
+<div style="display: flex; gap: 20px;">
+
+  <!-- Sidebar -->
+  <div style="min-width: 150px;">
+    <h3>Navigation</h3>
+
+    <ul style="list-style: none; padding-left: 0;">
+      <li><a href="#introduction">📘 Introduction</a></li>
+      <li><a href="#about-me">👤 About Me</a></li>
+      <li><a href="#projects">🛠️ Projects</a></li>
+      <li><a href="#skills">📚 Skills</a></li>
+      <li><a href="#experience">💼 Experience</a></li>
+      <li><a href="#resume">📄 Resume</a></li>
+    </ul>
+  </div>
+
+  <!-- Main content wrapper begins -->
+  <div>
+    
 <table>
   <tr>
     <!-- IMAGE CELL -->
@@ -142,4 +150,6 @@ You can view my resume here: [Resume (PDF)](./David%20Norman%20-%20Resume.pdf)
 ## Contact
 - Email: david.norm2001@gmail.com
 - [LinkedIn](linkedin.com/in/david-norm) 
-- [GitHub](github.com/david-norm) 
+- [GitHub](github.com/david-norm)
+  <div>
+  <div>
