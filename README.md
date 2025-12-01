@@ -1,4 +1,16 @@
-# David Norman's Portfolio
+# David Norman's Portfolio  
+
+<p align="left">
+  <a href="https://linkedin.com/in/david-norm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/David-Norm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 <table>
   <tr>
