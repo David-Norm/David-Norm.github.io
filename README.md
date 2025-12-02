@@ -56,12 +56,12 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
   
 <img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
   
 </td>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integration. The player explores a custom-generated dungeon, collecting four pillars to unlock the exit. The game features chest items, randomized dungeon generation, and turn-based enemy combat. It was implemented using design patterns such as MVC, Singleton, Factory, and Facade. Through this project, I gained experience with object-oriented programming, SQL integration, and applying multiple design patterns in a single software system. The technologies used include Java, SQL, IntelliJ IDEA, and GitHub.
 [Link to Repository](https://github.com/David-Norm/DrippySpelunk)
