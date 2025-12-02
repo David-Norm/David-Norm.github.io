@@ -58,7 +58,7 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 <tr>
 <td width="45%" valign="top">
   
-  <img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
+<img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
   
 </td>
 <td width="55%" valign="top">
@@ -75,15 +75,15 @@ Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integr
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-The Spreadsheet project is a fully functional Java-based application modeled after Excel. It evaluates cell formulas using a tree-structured data model supported by an adjacency-list graph and topological sorting. The spreadsheet includes a custom grammar for parsing expressions and computing results efficiently. This project enhanced my skills in grammar construction, GUI implementation, and tree-based data models. The technologies used include Java, IntelliJ IDEA, and GitHub.
-[Link to Repository](https://github.com/David-Norm/Spreadsheet)
-</td>
 <td width="45%" valign="top">
 
 <img src="SpreadsheetPicture.jpg" width="100%" alt="Spreadsheet">
 
+</td>
+<td width="55%" valign="top">
+
+The Spreadsheet project is a fully functional Java-based application modeled after Excel. It evaluates cell formulas using a tree-structured data model supported by an adjacency-list graph and topological sorting. The spreadsheet includes a custom grammar for parsing expressions and computing results efficiently. This project enhanced my skills in grammar construction, GUI implementation, and tree-based data models. The technologies used include Java, IntelliJ IDEA, and GitHub.
+[Link to Repository](https://github.com/David-Norm/Spreadsheet)
 </td>
 </tr>
 </table>
@@ -94,16 +94,17 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-Tetris is a Java-based video game featuring two modes: Normal and Hyper. The game includes optional background music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. Players must strategically place falling blocks to clear lines and advance through increasingly challenging levels. Developing this project allowed me to apply the State design pattern to manage game states, strengthen my object-oriented programming skills, and implement real-time user input handling and audio integration. Additionally, I learned how to balance gameplay mechanics with a responsive GUI and create a structured, maintainable codebase. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
-[Link to Repository](https://github.com/David-Norm/Tetris)
-</td>
 <td width="45%" valign="top">
 
 <img src="TetrisPicture.jpg" width="100%" alt="Tetris">
 
 </td>
+<td width="55%" valign="top">
+
+Tetris is a Java-based video game featuring two modes: Normal and Hyper. The game includes optional background music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. Players must strategically place falling blocks to clear lines and advance through increasingly challenging levels. Developing this project allowed me to apply the State design pattern to manage game states, strengthen my object-oriented programming skills, and implement real-time user input handling and audio integration. Additionally, I learned how to balance gameplay mechanics with a responsive GUI and create a structured, maintainable codebase. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
+[Link to Repository](https://github.com/David-Norm/Tetris)
+</td>
+
 </tr>
 </table>
 ---
@@ -127,7 +128,7 @@ Throughout my projects and coursework at the University of Washington Tacoma, I 
 ---
 
 # Resume
-You can view my resume here:  
+**You can view my resume here:**  
 **[Resume (PDF)](./David%20Norman%20-%20Resume.pdf)**
 
 ---
