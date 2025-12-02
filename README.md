@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 ### Introduction
 My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I also hold a minor in Business Data Analytics, which strengthens my ability to leverage data to drive sustainable business growth and support strategic decision-making.
@@ -40,7 +40,7 @@ My name is David Norman. I am currently a senior at the University of Washington
 I grew up surrounded by technology. My father and siblings were always deeply engaged with computers, and naturally, I followed their lead. From a young age, I’ve been fascinated by how computers operate and how meaningful insights can be drawn from the data they produce. This curiosity has evolved into a passion for using technology and analytics to develop innovative ideas and make informed decisions about the future.
 
 </td>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 <img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="100%" alt="David Norman">
 
@@ -56,7 +56,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 - **Repository:** https://github.com/David-Norm/DrippySpelunk  
 - A dungeon crawler video game created in Java with SQL integration.  
@@ -67,7 +67,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 - **Technologies:** Java, SQL, IntelliJ IDEA, GitHub  
 
 </td>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 <img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
 
@@ -81,7 +81,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 - **Repository:** https://github.com/David-Norm/Spreadsheet  
 - A fully functional Java-based spreadsheet application modeled after Excel.  
@@ -91,7 +91,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 - **Technologies:** Java, IntelliJ IDEA, GitHub  
 
 </td>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 <img src="SpreadsheetPicture.jpg" width="100%" alt="Spreadsheet">
 
@@ -105,7 +105,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 - **Repository:** https://github.com/David-Norm/Tetris  
 - A Java-based Tetris game offering Normal and Hyper modes.  
@@ -114,7 +114,7 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 - **Technologies:** Java, IntelliJ IDEA, GitHub  
 
 </td>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 <img src="TetrisPicture.jpg" width="100%" alt="Tetris">
 
