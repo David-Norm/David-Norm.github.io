@@ -137,7 +137,7 @@ Throughout my projects and coursework at the University of Washington Tacoma, I 
 
 <p align="left">
   <a href="mailto:david.norm2001@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" height="20" alt="Email">
+    <img src="./icons/email.png" height="20" alt="Email">
   </a>
   &nbsp; david.norm2001@gmail.com
   &nbsp;&nbsp;
