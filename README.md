@@ -75,12 +75,12 @@ Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integr
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <img src="SpreadsheetPicture.jpg" width="100%" alt="Spreadsheet">
 
 </td>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 The Spreadsheet project is a fully functional Java-based application modeled after Excel. It evaluates cell formulas using a tree-structured data model supported by an adjacency-list graph and topological sorting. The spreadsheet includes a custom grammar for parsing expressions and computing results efficiently. This project enhanced my skills in grammar construction, GUI implementation, and tree-based data models. The technologies used include Java, IntelliJ IDEA, and GitHub.
 [Link to Repository](https://github.com/David-Norm/Spreadsheet)
@@ -94,12 +94,12 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <img src="TetrisPicture.jpg" width="100%" alt="Tetris">
 
 </td>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 Tetris is a Java-based video game featuring two modes: Normal and Hyper. The game includes optional background music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. Players must strategically place falling blocks to clear lines and advance through increasingly challenging levels. Developing this project allowed me to apply the State design pattern to manage game states, strengthen my object-oriented programming skills, and implement real-time user input handling and audio integration. Additionally, I learned how to balance gameplay mechanics with a responsive GUI and create a structured, maintainable codebase. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
 [Link to Repository](https://github.com/David-Norm/Tetris)
