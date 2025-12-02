@@ -133,20 +133,20 @@ Throughout my projects and coursework at the University of Washington Tacoma, I 
 
 ---
 
-# Contact
+# Contacts
 
 <p align="left">
-  <a href="mailto:david.norm2001@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" height="28" alt="Email">
-  </a>
-  &nbsp; david.norm2001@gmail.com
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/david-norm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="20" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/david-norm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" alt="GitHub">
   </a>
+  <a href="mailto:david.norm2001@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" height="20" alt="Email">
+  </a>
+  &nbsp; david.norm2001@gmail.com
+  &nbsp;&nbsp;
 </p>
 
