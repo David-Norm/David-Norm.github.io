@@ -71,7 +71,7 @@ Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integr
 
 ---
 
-## Spreadsheet
+## Custom Java Spreadsheet
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 
 ---
 
-## Tetris
+## Tetris With Custom Gamemodes
 
 <table>
 <tr>
