@@ -56,18 +56,12 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
-- **Repository:** https://github.com/David-Norm/DrippySpelunk  
-- A dungeon crawler video game created in Java with SQL integration.  
-- Explore a custom-generated dungeon, collect four pillars, and unlock the exit.  
-- Includes chest items, randomized dungeon generation, and turn-based enemy combat.  
-- Implemented using design patterns such as MVC, Singleton, Factory, and Facade.  
-- **Key Learnings:** Design patterns, SQL integration, object-oriented programming  
-- **Technologies:** Java, SQL, IntelliJ IDEA, GitHub  
+Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integration. The player explores a custom-generated dungeon, collecting four pillars to unlock the exit. The game features chest items, randomized dungeon generation, and turn-based enemy combat. It was implemented using design patterns such as MVC, Singleton, Factory, and Facade. Through this project, I gained experience with object-oriented programming, SQL integration, and applying multiple design patterns in a single software system. The technologies used include Java, SQL, IntelliJ IDEA, and GitHub.
 
 </td>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 <img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
 
@@ -81,17 +75,12 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
-- **Repository:** https://github.com/David-Norm/Spreadsheet  
-- A fully functional Java-based spreadsheet application modeled after Excel.  
-- Evaluates formulas using a tree-structured model supported by an adjacency-list graph and topological sorting.  
-- Includes a custom grammar for expression parsing.  
-- **Key Learnings:** Grammar design, GUI implementation, tree-based models  
-- **Technologies:** Java, IntelliJ IDEA, GitHub  
+The Spreadsheet project is a fully functional Java-based application modeled after Excel. It evaluates cell formulas using a tree-structured data model supported by an adjacency-list graph and topological sorting. The spreadsheet includes a custom grammar for parsing expressions and computing results efficiently. This project enhanced my skills in grammar construction, GUI implementation, and tree-based data models. The technologies used include Java, IntelliJ IDEA, and GitHub.
 
 </td>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 <img src="SpreadsheetPicture.jpg" width="100%" alt="Spreadsheet">
 
@@ -105,23 +94,18 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
-- **Repository:** https://github.com/David-Norm/Tetris  
-- A Java-based Tetris game offering Normal and Hyper modes.  
-- Includes optional music, grid visuals, and a progression system to show level and score.  
-- **Key Learnings:** State design pattern, object-oriented programming, audio integration  
-- **Technologies:** Java, IntelliJ IDEA, GitHub  
+Tetris is a Java-based video game featuring two modes: Normal and Hyper. It includes optional music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. This project allowed me to apply the State design pattern and strengthen my understanding of object-oriented programming while implementing audio integration. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
 
 </td>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 <img src="TetrisPicture.jpg" width="100%" alt="Tetris">
 
 </td>
 </tr>
 </table>
-
 ---
 
 # Skills
