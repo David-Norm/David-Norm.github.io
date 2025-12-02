@@ -8,8 +8,8 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:david.norm2001@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" height="26" alt="Email">
+  <a href="https://www.instagram.com/david.norm" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="28" alt="Instagram">
   </a>
 </p>
 
