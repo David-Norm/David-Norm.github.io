@@ -15,14 +15,18 @@
 
 ---
 
-## 📌 Navigation  
-<p align="left">
-  <a href="#introduction">▶ Introduction</a><br>
-  <a href="#about-me">▶ About Me</a><br>
-  <a href="#projects">▶ Projects</a><br>
-  <a href="#skills">▶ Skills</a><br>
-  <a href="#resume">▶ Resume</a><br>
+<!-- Top Navigation Tabs -->
+<p align="center" style="font-size: 18px;">
+  <a href="#introduction" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Introduction</a>
+  <a href="#about-me" style="margin: 0 15px; text-decoration: none; font-weight: bold;">About Me</a>
+  <a href="#projects" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Projects</a>
+  <a href="#skills" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Skills</a>
+  <a href="#resume" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Resume</a>
+  <a href="#contact" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Contact</a>
 </p>
+
+<hr>
+
 
 ---
 
