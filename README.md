@@ -120,6 +120,9 @@ MySQL, RapidMiner
 ### Developer Tools  
 Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
 
+### Soft Skills
+Great written and oral communication, good time management, attention to detail, teamplayer
+
 ---
 
 # Experience
