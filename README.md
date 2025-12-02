@@ -96,7 +96,7 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 <tr>
 <td width="55%" valign="top">
 
-Tetris is a Java-based video game featuring two modes: Normal and Hyper. It includes optional music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. This project allowed me to apply the State design pattern and strengthen my understanding of object-oriented programming while implementing audio integration. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
+Tetris is a Java-based video game featuring two modes: Normal and Hyper. The game includes optional background music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. Players must strategically place falling blocks to clear lines and advance through increasingly challenging levels. Developing this project allowed me to apply the State design pattern to manage game states, strengthen my object-oriented programming skills, and implement real-time user input handling and audio integration. Additionally, I learned how to balance gameplay mechanics with a responsive GUI and create a structured, maintainable codebase. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
 [Link to Repository](https://github.com/David-Norm/Tetris)
 </td>
 <td width="45%" valign="top">
