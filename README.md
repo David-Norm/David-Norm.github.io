@@ -9,7 +9,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:david.norm2001@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" alt="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.png" height="26" alt="Email">
   </a>
 </p>
 
@@ -53,35 +53,74 @@ I grew up surrounded by technology. My father and siblings were always deeply en
 # Projects
 
 ## Drippy Spelunk Video Game
-![DrippySpelunk](DrippySpelunkPicture.jpg)
 
-- Repository: https://github.com/David-Norm/DrippySpelunk  
-- A dungeon crawler game developed in Java with SQL database integration. The player explores a custom-generated dungeon, collecting four pillars to unlock the exit.  
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- **Repository:** https://github.com/David-Norm/DrippySpelunk  
+- A dungeon crawler video game created in Java with SQL integration.  
+- Explore a custom-generated dungeon, collect four pillars, and unlock the exit.  
 - Includes chest items, randomized dungeon generation, and turn-based enemy combat.  
 - Implemented using design patterns such as MVC, Singleton, Factory, and Facade.  
 - **Key Learnings:** Design patterns, SQL integration, object-oriented programming  
-- **Technologies:** Java, SQL, IntelliJ IDEA, GitHub
+- **Technologies:** Java, SQL, IntelliJ IDEA, GitHub  
+
+</td>
+<td width="45%" valign="top">
+
+<img src="DrippySpelunkPicture.jpg" width="100%" alt="Drippy Spelunk">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Spreadsheet
-![Spreadsheet](SpreadsheetPicture.jpg)
 
-- Repository: https://github.com/David-Norm/Spreadsheet  
-- A fully functional spreadsheet application built in Java, similar to Excel. It evaluates cell formulas using a tree-structured model with an adjacency-list graph and topological sorting.  
-- Includes a custom grammar implementation for parsing expressions.  
-- **Key Learnings:** Grammar construction, GUI implementation, tree-based models  
-- **Technologies:** Java, IntelliJ IDEA, GitHub
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- **Repository:** https://github.com/David-Norm/Spreadsheet  
+- A fully functional Java-based spreadsheet application modeled after Excel.  
+- Evaluates formulas using a tree-structured model supported by an adjacency-list graph and topological sorting.  
+- Includes a custom grammar for expression parsing.  
+- **Key Learnings:** Grammar design, GUI implementation, tree-based models  
+- **Technologies:** Java, IntelliJ IDEA, GitHub  
+
+</td>
+<td width="45%" valign="top">
+
+<img src="SpreadsheetPicture.jpg" width="100%" alt="Spreadsheet">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tetris
-![Tetris](TetrisPicture.jpg)
 
-- Repository: https://github.com/David-Norm/Tetris  
-- A Java-based Tetris game featuring Normal and Hyper modes, optional music, grid visuals, and a progression system.  
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- **Repository:** https://github.com/David-Norm/Tetris  
+- A Java-based Tetris game offering Normal and Hyper modes.  
+- Includes optional music, grid visuals, and a progression system to show level and score.  
 - **Key Learnings:** State design pattern, object-oriented programming, audio integration  
-- **Technologies:** Java, IntelliJ IDEA, GitHub
+- **Technologies:** Java, IntelliJ IDEA, GitHub  
+
+</td>
+<td width="45%" valign="top">
+
+<img src="TetrisPicture.jpg" width="100%" alt="Tetris">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,7 +138,7 @@ Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
 ---
 
 # Experience
-Throughout my projects and coursework at the University of Washington Tacoma, I have developed strong proficiency in object-oriented programming, design patterns, and database-driven software development. My work spans multiple complex coding projects, focusing on clean design, collaboration, and building scalable systems.
+Throughout my projects and coursework at the University of Washington Tacoma, I have developed strong proficiency in object-oriented programming, design patterns, and database-driven software development. My work spans multiple complex coding projects focused on clean architecture, problem-solving, and building scalable systems.
 
 ---
 
@@ -113,4 +152,4 @@ You can view my resume here:
 
 - **Email:** david.norm2001@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/david-norm  
-- **GitHub:** https://github.com/david-norm  
+- **GitHub:** https://github.com/david-norm
