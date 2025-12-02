@@ -1,53 +1,48 @@
-<!-- Contact Icons -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+<!-- TOP ICONS -->
+<p align="left">
+  <a href="https://linkedin.com/in/david-norm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" alt="LinkedIn">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/david-norm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" alt="GitHub">
   </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/000000/new-post.png" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:david.norm2001@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" alt="Email">
   </a>
+</p>
+
+<!-- NAVIGATION BAR -->
+<p align="left">
+  <a href="#overview">Overview</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#resume">Resume</a> |
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-<!-- Top Navigation Tabs -->
-<p align="center" style="font-size: 18px;">
-  <a href="#introduction" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Introduction</a>
-  <a href="#about-me" style="margin: 0 15px; text-decoration: none; font-weight: bold;">About Me</a>
-  <a href="#projects" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Projects</a>
-  <a href="#skills" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Skills</a>
-  <a href="#resume" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Resume</a>
-  <a href="#contact" style="margin: 0 15px; text-decoration: none; font-weight: bold;">Contact</a>
-</p>
+# David Norman's Portfolio
 
-<hr>
+## Overview
 
-
----
-
-# 🎉 Introduction & About Me  
 <table>
 <tr>
-<td width="40%">
-  <img src="your_image.jpg" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%">
-  
-### 👋 Introduction  
-Hi! I’m **David Norman**, a passionate developer who loves building projects from scratch — especially tools that solve real problems.  
-I enjoy working with **Java, SQL, data structures, and GUI development**, and I’m constantly working on improving my engineering skills.
+<td width="55%" valign="top">
 
-### 🙋 About Me  
-- 🎓 Computer Science student  
-- ⚙️ Interested in database systems, GUIs, game dev, and backend design  
-- 💼 Experienced with Java, Swing, and custom data structures  
-- 📊 I love making tools that automate, simplify, or analyze data  
-- 🧠 Always learning, always improving  
+### Introduction
+My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I also hold a minor in Business Data Analytics, which strengthens my ability to leverage data to drive sustainable business growth and support strategic decision-making.
+
+### About Me
+I grew up surrounded by technology. My father and siblings were always deeply engaged with computers, and naturally, I followed their lead. From a young age, I’ve been fascinated by how computers operate and how meaningful insights can be drawn from the data they produce. This curiosity has evolved into a passion for using technology and analytics to develop innovative ideas and make informed decisions about the future.
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/9ee7886e-b72c-4c81-9ab2-36f0e3c4ce70" width="100%" alt="David Norman">
 
 </td>
 </tr>
@@ -55,95 +50,67 @@ I enjoy working with **Java, SQL, data structures, and GUI development**, and I�
 
 ---
 
-# 💻 Projects
+# Projects
 
-## 📊 Spreadsheet Application (Excel Clone)
-<table>
-<tr>
-<td width="40%">
-  <img src="spreadsheet_image.jpg" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%">
-A fully custom-built spreadsheet program featuring:
+## Drippy Spelunk Video Game
+![DrippySpelunk](DrippySpelunkPicture.jpg)
 
-- Cell editing  
-- R1C1 formulas  
-- Dependency graph + topological sort  
-- Java Swing GUI  
-- File save/load  
-- Bulk formula entry  
-- Dynamic resizing  
-
-This project was built **from scratch** with no external spreadsheet libraries — everything including the parser and evaluator is homegrown.
-</td>
-</tr>
-</table>
+- Repository: https://github.com/David-Norm/DrippySpelunk  
+- A dungeon crawler game developed in Java with SQL database integration. The player explores a custom-generated dungeon, collecting four pillars to unlock the exit.  
+- Includes chest items, randomized dungeon generation, and turn-based enemy combat.  
+- Implemented using design patterns such as MVC, Singleton, Factory, and Facade.  
+- **Key Learnings:** Design patterns, SQL integration, object-oriented programming  
+- **Technologies:** Java, SQL, IntelliJ IDEA, GitHub
 
 ---
 
-## ⚔️ Dungeon Crawler Game
-<table>
-<tr>
-<td width="40%">
-  <img src="dungeon_image.jpg" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%">
-A Java-based dungeon crawler featuring:
+## Spreadsheet
+![Spreadsheet](SpreadsheetPicture.jpg)
 
-- State manager for UI transitions  
-- Procedural-style dungeon  
-- Dedicated combat system  
-- Inventory and player stats  
-- Expandable architecture  
-
-Refactored with clean separation between UI, combat logic, and world generation.
-</td>
-</tr>
-</table>
+- Repository: https://github.com/David-Norm/Spreadsheet  
+- A fully functional spreadsheet application built in Java, similar to Excel. It evaluates cell formulas using a tree-structured model with an adjacency-list graph and topological sorting.  
+- Includes a custom grammar implementation for parsing expressions.  
+- **Key Learnings:** Grammar construction, GUI implementation, tree-based models  
+- **Technologies:** Java, IntelliJ IDEA, GitHub
 
 ---
 
-## 🌳 AVL & Splay Tree Word Frequency Analyzer
-<table>
-<tr>
-<td width="40%">
-  <img src="tree_image.jpg" width="100%" style="border-radius: 12px;" />
-</td>
-<td width="60%">
-A custom word frequency counter using:
+## Tetris
+![Tetris](TetrisPicture.jpg)
 
-- AVL Tree  
-- Splay Tree  
-- Custom `AvlNode` and `BinaryNode` extensions  
-- Top-10 most frequent word extraction  
-- Minimal modification to textbook implementations  
-
-A great demonstration of **data structure engineering**.
-</td>
-</tr>
-</table>
+- Repository: https://github.com/David-Norm/Tetris  
+- A Java-based Tetris game featuring Normal and Hyper modes, optional music, grid visuals, and a progression system.  
+- **Key Learnings:** State design pattern, object-oriented programming, audio integration  
+- **Technologies:** Java, IntelliJ IDEA, GitHub
 
 ---
 
-# 🧠 Skills
-### Programming  
-`Java` • `SQL` • `Python` • `Java Swing` • `Git` • `HTML/CSS`  
+# Skills
 
-### Concepts  
-`OOP` • `Data Structures` • `Database Design` • `Parsing` • `Graph Algorithms`  
+### Languages  
+Java, SQL, Python, R
 
-### Tools  
-`MySQL` • `SQLite` • `IntelliJ` • `VS Code`  
+### Frameworks  
+MySQL, RapidMiner
+
+### Developer Tools  
+Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
 
 ---
 
-# 📄 Resume
+# Experience
+Throughout my projects and coursework at the University of Washington Tacoma, I have developed strong proficiency in object-oriented programming, design patterns, and database-driven software development. My work spans multiple complex coding projects, focusing on clean design, collaboration, and building scalable systems.
+
+---
+
+# Resume
 You can view my resume here:  
-👉 **[Resume (PDF)](/David%20Norman%20-%20Resume.pdf)**
+**[Resume (PDF)](./David%20Norman%20-%20Resume.pdf)**
 
 ---
 
-# 📫 Contact
-📧 **YOUR_EMAIL@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME  
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
+# Contact
+
+- **Email:** david.norm2001@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/david-norm  
+- **GitHub:** https://github.com/david-norm  
