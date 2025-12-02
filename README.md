@@ -135,7 +135,7 @@ Throughout my projects and coursework at the University of Washington Tacoma, I 
 
 # Contacts
 
-- [**Email**](david.norm2001@gmail.com)
+- **Email:** david.norm2001@gmail.com
 - [**LinkedIn**](https://linkedin.com/in/david-norm)
 - [**GitHub**](https://github.com/david-norm)
 - [**Instagram**](https://www.instagram.com/david.norm/)
