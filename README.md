@@ -25,7 +25,7 @@
 
 ---
 
-# David Norman's Portfolio
+# David Norman
 
 ## Overview
 
