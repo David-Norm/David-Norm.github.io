@@ -59,7 +59,6 @@ I have two beautiful children, a 5 year old daughter and 1 year old son, who kee
 <td width="55%" valign="top">
 
 Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integration. The player explores a custom-generated dungeon, collecting four pillars to unlock the exit. The game features chest items, randomized dungeon generation, and turn-based enemy combat. It was implemented using design patterns such as MVC, Singleton, Factory, and Facade. Through this project, I gained experience with object-oriented programming, SQL integration, and applying multiple design patterns in a single software system. The technologies used include Java, SQL, IntelliJ IDEA, and GitHub.
-
 [Link to Repository](https://github.com/David-Norm/DrippySpelunk)
 </td>
 <td width="45%" valign="top">
@@ -79,7 +78,6 @@ Drippy Spelunk is a dungeon crawler video game developed in Java with SQL integr
 <td width="55%" valign="top">
 
 The Spreadsheet project is a fully functional Java-based application modeled after Excel. It evaluates cell formulas using a tree-structured data model supported by an adjacency-list graph and topological sorting. The spreadsheet includes a custom grammar for parsing expressions and computing results efficiently. This project enhanced my skills in grammar construction, GUI implementation, and tree-based data models. The technologies used include Java, IntelliJ IDEA, and GitHub.
-
 [Link to Repository](https://github.com/David-Norm/Spreadsheet)
 </td>
 <td width="45%" valign="top">
@@ -99,7 +97,6 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 <td width="55%" valign="top">
 
 Tetris is a Java-based video game featuring two modes: Normal and Hyper. It includes optional music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. This project allowed me to apply the State design pattern and strengthen my understanding of object-oriented programming while implementing audio integration. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
-
 [Link to Repository](https://github.com/David-Norm/Tetris)
 </td>
 <td width="45%" valign="top">
