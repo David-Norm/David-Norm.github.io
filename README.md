@@ -101,8 +101,8 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 </td>
 <td width="50%" valign="top">
 
-Tetris is a Java-based video game featuring two modes: Normal and Hyper. The game includes optional background music, visual grid assistance for gameplay, and a progression system that displays the player’s level and score. Players must strategically place falling blocks to clear lines and advance through increasingly challenging levels. Developing this project allowed me to apply the State design pattern to manage game states, strengthen my object-oriented programming skills, and implement real-time user input handling and audio integration. Additionally, I learned how to balance gameplay mechanics with a responsive GUI and create a structured, maintainable codebase. The technologies used for this project include Java, IntelliJ IDEA, and GitHub.
-[Link to Repository](https://github.com/David-Norm/Tetris)
+This project is a multi-game browser engine my group built in TypeScript, React, and PixiJS that runs game logic on separate Web Worker threads using SharedArrayBuffers for real-time data sharing. It features a bullet-hell shooter with a multi-phase boss fight and a platformer with wall-sliding and ledge-mantling, tied together by a campaign system that carries the player's points, coins, and inventory across both game types. We also built out supporting systems like spritesheet animation pooling, rebindable input controls, save/load with IndexedDB, and a level parser that reads map geometry from color-coded PNG files. 
+[Link to Repository]([https://github.com/Devin-Ar/LuckyRepo.git])
 </td>
 
 </tr>
@@ -112,10 +112,10 @@ Tetris is a Java-based video game featuring two modes: Normal and Hyper. The gam
 # Skills
 
 ### Languages  
-Java, SQL, Python, R
+Java, SQL, Python, R, JavaScript, TypeScript, React
 
-### Frameworks  
-MySQL, RapidMiner
+### Frameworks/Libraries
+MySQL, RapidMiner, PixiJS
 
 ### Developer Tools  
 Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
