@@ -118,7 +118,7 @@ Java, SQL, Python, R, JavaScript, TypeScript, React
 MySQL, RapidMiner, PixiJS
 
 ### Developer Tools  
-Git, IntelliJ IDEA, Eclipse, AIStudio, Maven
+Git, IntelliJ IDEA, Eclipse, AIStudio, Maven, Webstorm
 
 ### Soft Skills
 Great written and oral communication, good time management, attention to detail, teamplayer
