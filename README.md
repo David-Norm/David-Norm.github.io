@@ -34,10 +34,10 @@
 <td width="60%" valign="top">
 
 ### Introduction
-My name is David Norman. I am currently a senior at the University of Washington, Tacoma, pursuing my Bachelor of Arts in Computer Science. I also hold a minor in Business Data Analytics, which strengthens my ability to leverage data to drive sustainable business growth and support strategic decision-making.
+My name is David Norman, and I am currently a senior at the University of Washington, Tacoma, pursuing a Bachelor of Arts in Computer Science. I am also completing a minor in Business Data Analytics, which has strengthened my ability to use data to support strategic decision-making and help organizations drive sustainable growth.
 
 ### About Me
-I have two beautiful children, a 5 year old daughter and 1 year old son, who keep me very active. There are many hobbies I enjoy such as rock climbing, music, and video games. Since I grew up surrounded by technology, my father and siblings were always deeply engaged with computers, and naturally, I followed their lead. From a young age, I’ve been fascinated by how computers operate and how meaningful insights can be drawn from the data they produce. This curiosity has evolved into a passion for using technology and analytics to develop innovative ideas and make informed decisions about the future.
+I have two wonderful children, a five-year-old daughter and a one-year-old son, who keep me very active. In my free time, I enjoy hobbies suchs as rock climbing, music, and video games. Growing up surrounded by technology, with my father and siblings deeply engaged with computers, I naturally developed an interest in them as well. From an early age, I was fascinated by how computers work and how meaningful insights can be drawn from the data they produce. Over time, this curiousity has grown into a passion for using technology and analytics to develop innovative ideas and make informed decisions about the future.
 
 </td>
 <td width="40%" valign="top">
