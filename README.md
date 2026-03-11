@@ -96,7 +96,7 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 <tr>
 <td width="50%" valign="top">
 
-<img src="TetrisPicture.jpg" width="100%" alt="Tetris">
+<img src="SurvivorKings.jpg" width="100%" alt="Tetris">
 
 </td>
 <td width="50%" valign="top">
