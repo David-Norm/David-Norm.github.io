@@ -90,13 +90,13 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 
 ---
 
-## Tetris With Custom Gamemodes
+## Survivor Kings Video Game
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="SurvivorKings.jpg" width="100%" alt="Tetris">
+<img src="SurvivorKings.jpg" width="100%" alt="SurvivorKings">
 
 </td>
 <td width="50%" valign="top">
