@@ -101,8 +101,8 @@ The Spreadsheet project is a fully functional Java-based application modeled aft
 </td>
 <td width="50%" valign="top">
 
-This project is a multi-game browser engine my group built in TypeScript, React, and PixiJS that runs game logic on separate Web Worker threads using SharedArrayBuffers for real-time data sharing. It features a bullet-hell shooter with a multi-phase boss fight and a platformer with wall-sliding and ledge-mantling, tied together by a campaign system that carries the player's points, coins, and inventory across both game types. We also built out supporting systems like spritesheet animation pooling, rebindable input controls, save/load with IndexedDB, and a level parser that reads map geometry from color-coded PNG files. 
-[Link to Repository]([https://github.com/Devin-Ar/LuckyRepo.git])
+This project is a multi-game browser engine my group built in TypeScript, React, and PixiJS that runs game logic on separate Web Worker threads using SharedArrayBuffers for real-time data sharing. It features a dungeon shooter with a multi-phase boss fight and a parkour platformer, tied together by a campaign system that carries the player's points, coins, and inventory across both game types. We also built out supporting systems like spritesheet animation pooling, rebindable input controls, save/load with IndexedDB, and a level parser that reads map geometry from color-coded PNG files. 
+[Link to Repository](https://github.com/Devin-Ar/LuckyRepo.git)
 </td>
 
 </tr>
